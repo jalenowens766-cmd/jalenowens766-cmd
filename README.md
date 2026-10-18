@@ -13,7 +13,7 @@ I'm pursuing a bachelor's degree in Cybersecurity and building my technical foun
 
 ## Tools I'm Practicing With
 
-Kali Linux · VirtualBox · Cisco Packet Tracer
+Kali Linux · VirtualBox · Cisco Packet Tracer · Python
 
 ## My Portfolio
 
