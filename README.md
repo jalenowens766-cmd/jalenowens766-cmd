@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jalen Owens 👋
 
-<!--
-**jalenowens766-cmd/jalenowens766-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity student at Coppin State University | Expected graduation: Spring 2029**
 
-Here are some ideas to get you started:
+I'm pursuing a bachelor's degree in Cybersecurity and building my technical foundation through coursework and hands-on labs. I'm interested in security operations, threat analysis, and threat hunting, with a goal of becoming a SOC Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+
+- **Networking:** IP addressing, subnetting, network configuration, and troubleshooting
+- **Linux:** Command-line fundamentals and working with Kali Linux
+- **Security fundamentals:** Identifying open ports and understanding network services in a controlled lab
+- **Virtualization:** Using VirtualBox and host-only networks for lab practice
+
+## Tools I'm Practicing With
+
+Kali Linux · VirtualBox · Cisco Packet Tracer
+
+## My Portfolio
+
+I'm using this GitHub to document my cybersecurity and networking projects as I develop them. My write-ups will cover lab setup, troubleshooting, observations, and lessons learned.
+
+## Let's Connect
+
+I'm seeking cybersecurity and IT internship opportunities and welcome connections with fellow students, professionals, and mentors. I enjoy asking questions, solving problems, and applying what I learn beyond the classroom.
