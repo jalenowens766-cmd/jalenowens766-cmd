@@ -19,6 +19,10 @@ Kali Linux · VirtualBox · Cisco Packet Tracer · Python
 
 I'm using this GitHub to document my cybersecurity and networking projects as I develop them. My write-ups will cover lab setup, troubleshooting, observations, and lessons learned.
 
+## Résumé
+
+[**View My Résumé**](./RESUME.md)
+
 ## Let's Connect
 
 I'm seeking cybersecurity and IT internship opportunities and welcome connections with fellow students, professionals, and mentors. I enjoy asking questions, solving problems, and applying what I learn beyond the classroom.
